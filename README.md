@@ -44,4 +44,3 @@ This course equipped me with the skills to build full-stack Python applications,
 
 ---
 
-Just replace `your_certificate_image.png` with the actual filename of your uploaded certificate image. Want help formatting additional certifications or creating a table of contents for your README?
